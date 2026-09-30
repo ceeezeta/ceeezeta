@@ -23,7 +23,7 @@ I'm a **20yr old ICT Engineer and Software Engineer** from Finland
 <h2 align="center">💻 Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,lua,rust,tailwind,bootstrap,mysql,cloudflare,dotnet&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,lua,rust,bash,powershell,mysql,linux,docker,git,cloudflare,dotnet&theme=dark" />
 </p>
 
 <div align="center">

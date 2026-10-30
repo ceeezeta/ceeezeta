@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="98" viewBox="0 0 1200 98" role="img" aria-label="Thanks for visiting">
+<defs><linearGradient id="bg" x2="1"><stop stop-color="#050D19"/><stop offset=".5" stop-color="#11305D"/><stop offset="1" stop-color="#071326"/></linearGradient><linearGradient id="a" x2="1"><stop stop-color="#1779FF" stop-opacity="0"/><stop offset=".5" stop-color="#5EC5FF"/><stop offset="1" stop-color="#1779FF" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="98" rx="16" fill="url(#bg)"/>
+<path d="M48 49H421M779 49H1152" stroke="url(#a)" stroke-width="2"/>
+<circle cx="430" cy="49" r="3.5" fill="#5EC5FF"/><circle cx="770" cy="49" r="3.5" fill="#5EC5FF"/>
+<text x="600" y="54" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3.2" fill="#CBEAFF">THANKS FOR VISITING</text>
+<rect x="1" y="1" width="1198" height="96" rx="15" fill="none" stroke="#57AAFF" stroke-opacity=".22" stroke-width="2"/>
+</svg>

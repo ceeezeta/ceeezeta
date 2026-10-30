@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="392" viewBox="0 0 1200 392" role="img" aria-label="ceeezeta GitHub profile">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#050B16"/><stop offset=".5" stop-color="#0A1E3B"/><stop offset="1" stop-color="#061428"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#146AF0" stop-opacity=".3"/><stop offset="1" stop-color="#146AF0" stop-opacity="0"/></radialGradient>
+<linearGradient id="cyan" x2="1" y2="1"><stop stop-color="#A3E8FF"/><stop offset=".43" stop-color="#47AFFF"/><stop offset="1" stop-color="#1C6BFF"/></linearGradient>
+<pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#3F98DD" stroke-opacity=".10"/></pattern>
+<clipPath id="cl"><rect width="1200" height="392" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#cl)">
+<rect width="1200" height="392" fill="url(#bg)"/>
+<ellipse cx="913" cy="206" rx="230" ry="210" fill="url(#glow)"/>
+<rect width="1200" height="392" fill="url(#grid)"/>
+<path d="M0 52H1200M0 345H1200M51 0V392M1150 0V392" stroke="#4DB8FF" stroke-opacity=".11"/>
+<path d="M65 67H156M65 67V77M1135 67H1044M1135 67V77M65 325H156M65 325V315M1135 325H1044M1135 325V315" fill="none" stroke="#5FBDFF" stroke-opacity=".45" stroke-width="1.5"/>
+<rect x="66" y="62" width="121" height="27" rx="13.5" fill="#123960" stroke="#338BFF" stroke-opacity=".4"/>
+<circle cx="85" cy="75" r="4.5" fill="#62C9FF"/>
+<text x="101" y="79" fill="#B5DFFF" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2">GITHUB</text>
+<text x="63" y="214" font-family="Arial,Helvetica,sans-serif" font-size="99" font-weight="800" letter-spacing="-5.5" fill="#F1F9FF">ceeezeta</text>
+<rect x="67" y="242" width="81" height="5" rx="2.5" fill="url(#cyan)"/>
+<rect x="160" y="242" width="26" height="5" rx="2.5" fill="#267CF5" opacity=".52"/>
+<path d="M65 281H611" stroke="#48A8FF" stroke-opacity=".25"/>
+<text x="66" y="310" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="600" letter-spacing="4" fill="#8DADD5">PERSONAL PORTFOLIO</text>
+<g transform="translate(921 196)">
+<circle r="133" fill="#0C2C58" fill-opacity=".28" stroke="#5DADFF" stroke-opacity=".2" stroke-width="2"/>
+<circle r="111" fill="none" stroke="#388DF4" stroke-opacity=".4" stroke-dasharray="5 8"/>
+<circle r="89" fill="none" stroke="#6CCAFF" stroke-opacity=".75" stroke-width="1.5" stroke-dasharray="170 14 24 12 58 16"/>
+<circle r="74" fill="none" stroke="#1B66DB" stroke-width="10" stroke-opacity=".16"/>
+<path d="M0-119A119 119 0 0 1 114 35M-112 40A119 119 0 0 0 38 113" fill="none" stroke="#51C1FF" stroke-opacity=".7" stroke-width="4" stroke-linecap="round"/>
+<path d="M0-70L61-35V35L0 70L-61 35V-35Z" fill="#071B38" fill-opacity=".7" stroke="#57BAFF" stroke-width="2"/>
+<path d="M0-70V-26M61-35L22-12M61 35L22 12M0 70V26M-61 35L-22 12M-61-35L-22-12" stroke="#67C8FF" stroke-opacity=".75" stroke-width="1.5"/>
+<path d="M-23-13L0-27L23-13V13L0 27L-23 13Z" fill="#154881" stroke="#80D5FF" stroke-width="1.5"/>
+<circle r="8" fill="#7FDBFF"/><circle cy="-119" r="5.5" fill="#B3F4FF"/><circle cx="114" cy="35" r="4" fill="#52BEFF"/><circle cx="-112" cy="40" r="4" fill="#52BEFF"/>
+</g>
+<path d="M1040 196H1147M795 196H734M921 65V20M921 328V368" stroke="#6CC2FF" stroke-opacity=".16"/>
+<rect x="1" y="1" width="1198" height="390" rx="19" fill="none" stroke="#569EFF" stroke-opacity=".2" stroke-width="2"/>
+</g></svg>

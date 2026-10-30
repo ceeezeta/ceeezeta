@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Etelä-Suomi FiveM community">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#061329"/><stop offset=".55" stop-color="#0B2852"/><stop offset="1" stop-color="#092348"/></linearGradient>
+<linearGradient id="b" x2="1"><stop stop-color="#2D86FF"/><stop offset="1" stop-color="#77D6FF"/></linearGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#65B8FF" stroke-opacity=".09"/></pattern>
+<clipPath id="c"><rect width="1200" height="340" rx="19"/></clipPath>
+</defs><g clip-path="url(#c)">
+<rect width="1200" height="340" fill="url(#bg)"/><rect width="1200" height="340" fill="url(#grid)"/>
+<circle cx="935" cy="157" r="162" fill="#1D73D9" opacity=".09"/><circle cx="935" cy="157" r="115" fill="none" stroke="#73C6FF" stroke-opacity=".2" stroke-width="2"/><circle cx="935" cy="157" r="83" fill="none" stroke="#73C6FF" stroke-opacity=".36" stroke-width="2" stroke-dasharray="6 11"/>
+<path d="M931 54C885 54 849 89 849 133c0 57 82 145 82 145s82-88 82-145c0-44-36-79-82-79Z" fill="#1B5BAC" fill-opacity=".3" stroke="#71C9FF" stroke-width="3"/>
+<circle cx="931" cy="132" r="30" fill="#0A244C" stroke="#7ED8FF" stroke-width="3"/><circle cx="931" cy="132" r="13" fill="#83DCFF"/>
+<path d="M740 280H1105M785 300H1058M814 320H1039" stroke="#4598EF" stroke-opacity=".28"/>
+<text x="65" y="76" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#80C8FF">FEATURED PROJECT</text>
+<rect x="65" y="93" width="60" height="4" rx="2" fill="#318DFF"/>
+<text x="60" y="181" font-family="Arial,Helvetica,sans-serif" font-size="75" font-weight="800" letter-spacing="-2.2" fill="#F2FAFF">ETELÄ-SUOMI</text>
+<text x="65" y="215" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="4" fill="#A4C9E9">FIVEM COMMUNITY</text>
+<rect x="65" y="252" width="237" height="50" rx="10" fill="url(#b)"/>
+<text x="91" y="283" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="800" letter-spacing="1.3" fill="#05142B">DISCORD.GG/ETELASUOMI</text>
+<rect x="1" y="1" width="1198" height="338" rx="18" fill="none" stroke="#5CB4FF" stroke-opacity=".23" stroke-width="2"/>
+</g></svg>
